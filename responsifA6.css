@@ -41,9 +41,10 @@
     }
     .footer{
         text-align: center;
-. footer-pesan {
-font-size: 8px;
     }
+.footer-pesan {
+font-size: 8px;
+}
     .signup{
         width: 80%;
         margin-bottom: 10px;
